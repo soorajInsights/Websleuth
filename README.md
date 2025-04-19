@@ -2,7 +2,7 @@
 
 **WebSleuth** is a lightweight, developer-first Python library that simplifies web scraping. It wraps around common scraping tools like `requests`, `BeautifulSoup`, and `lxml` — adding support for proxy rotation, retry logic, async workflows, and data export — all in a customizable and modular way.
 
-[![PyPI version](https://badge.fury.io/py/websleuth.svg)](https://pypi.org/project/websleuth/)
+[![PyPI version](https://badge.fury.io/py/websleuth.svg?cache-bust=1)](https://pypi.org/project/websleuth/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
