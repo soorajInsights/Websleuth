@@ -1,6 +1,6 @@
 [project]
 name = "websleuth"
-version = "0.1.3"
+version = "1.0.0"
 description = "WebSleuth - A lightweight, extensible web scraping framework."
 authors = [
     { name = "Sooraj", email = "soorajkknmd@gmail.com" }
@@ -13,7 +13,11 @@ dependencies = [
     "requests",
     "beautifulsoup4",
     "fake-useragent",
-    "lxml"
+    "lxml",
+    "aiofiles",
+    "xlsxwriter",
+    "aiohttp",
+    "openpyxl"
 ]
 
 [project.optional-dependencies]
